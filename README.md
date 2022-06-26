@@ -1,4 +1,6 @@
-Hi, I'm Petris Fernandes, a software engineer from Brazil. My passion for software lies with writing up the best architecture solution for common problems and making them come true with code quality and the best practices and patterns.
+Hi, I'm Petris Fernandes, a software engineer from Brazil. 
+
+My passion for software lies with writing up the best architecture solution for common problems and making them come true with code quality and the best practices and patterns.
 
 **Languages and Tools:**
 
