@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![](https://visitor-badge.glitch.me/badge?page_id=petrenkorf.petrenkorf)
+### Hi there 👋 I'm Petris!
 
 **Languages and Tools:**
 
@@ -15,6 +13,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+
+<img src="https://github-readme-stats.vercel.app/api?username=petrenkorf&show_icons=true&theme=gotham" alt="petrenkorf" />
 
 <!--
 **petrenkorf/petrenkorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
