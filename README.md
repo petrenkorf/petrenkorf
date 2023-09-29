@@ -37,7 +37,7 @@ This serves as a way for me to remember little things (technical or not) I'd oth
 
 *Docker*
 
- - Differences between ARG and ENV
+ - [From docker-compose to Dockerfile](https://github.com/petrenkorf/petrenkorf/blob/main/docker/From-docker-compose-to-Dockerfile.md)
 
 <!--
 **petrenkorf/petrenkorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
