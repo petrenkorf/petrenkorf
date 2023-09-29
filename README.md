@@ -35,9 +35,13 @@ Some of my interests are: (This list may change as time passes by)
 Here is a place for me write down all of the things I learned every day. 
 This serves as a way for me to remember little things (technical or not) I'd otherwise have to keep looking up.
 
+*Ruby*
+ 
+ - Ruby threads and parallelism
+
 *Docker*
 
- - [From docker-compose to Dockerfile](https://github.com/petrenkorf/petrenkorf/blob/main/docker/From-docker-compose-to-Dockerfile.md)
+ - [From docker-compose to Dockerfile](https://github.com/petrenkorf/petrenkorf/blob/main/docker/From-docker-compose-to-Dockerfile.md) (29/09/2023)
 
 <!--
 **petrenkorf/petrenkorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

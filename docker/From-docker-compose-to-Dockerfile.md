@@ -51,8 +51,8 @@ CMD ["rails", "s", "-b", "0.0.0.0"]
 Running the command `docker-compose up api` after `docker-compose build --no-cache api` we can confirm the image is
 working normally with `docker-compose`.
 
-We can build the image using using the command `docker build . -t my-image` again, but once we run `docker run --rm my-image`,
-the application start this time. But once we try to access the application through the browser, we do not have a response from
+We can build the image using the command `docker build . -t my-image` again, but if we run `docker run --rm my-image`,
+the application will start correctly this time. But once we try to access the application through the browser, we do not have a response from
 the application itself. The browser is returning 'localhost refused to connect'.
 
 The root of the error is because the port of the container is not exposed, so we have to pass the ports argument using `-p 3000:3000`
