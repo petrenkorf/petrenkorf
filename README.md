@@ -3,7 +3,7 @@ Hi, I'm Petris Fernandes, a software engineer from Brazil.
 My passion for software lies with writing up the best architecture solution for 
 common problems and making them come true with code quality and the best practices and patterns.
 
-Some of my interests are:
+Some of my interests are: (This list may change as time passes by)
 
 - Functional Programming;
 - How to implement Gang of Four design patterns in different languages;
