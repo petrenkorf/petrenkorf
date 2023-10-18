@@ -35,9 +35,9 @@ Some of my interests are: (This list may change as time passes by)
 Here is a place for me write down all of the things I learned every day. 
 This serves as a way for me to remember little things (technical or not) I'd otherwise have to keep looking up.
 
-*Ruby*
- 
- - Ruby threads and parallelism
+*Ruby on Rails*
+
+ - [ActiveRecord Strict Loading Mode](https://github.com/petrenkorf/petrenkorf/blob/main/ruby-on-rails/ActiveRecord-Strict-Loading-Mode.md) (18/10/2023)
 
 *Docker*
 
