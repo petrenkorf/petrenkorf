@@ -44,6 +44,9 @@ This serves as a way for me to remember little things (technical or not) I'd oth
 
  - [From docker-compose to Dockerfile](https://github.com/petrenkorf/petrenkorf/blob/main/docker/From-docker-compose-to-Dockerfile.md) (29/09/2023)
 
+*Clojure*
+
+ - [Sequential, Sequence and Seq](https://github.com/petrenkorf/petrenkorf/blob/main/clojure/Sequentials-Sequences-Seqs.md) (14/03/2024)
 <!--
 **petrenkorf/petrenkorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
