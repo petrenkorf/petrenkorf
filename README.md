@@ -6,11 +6,10 @@ common problems and making them come true with code quality and the best practic
 Some of my interests are: (This list may change as time passes by)
 
 - Functional Programming;
-- How to implement Gang of Four design patterns in different languages;
+- How Gang of Four design patterns are implemented in different languages;
 - Differences between programming languages;
-- Object Oriented Programming and his differences compared to other paradigms;
 - How achieve simpler code;
-- Search for better alternatives to TypeScript;
+- Clojure;
 - Infrastructure knowledge;
 
 **Languages and Tools:**
